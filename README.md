@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Marcos 🤓
 
-[![Welcome GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzgwNGpubHFweXVjdjkxdmNsZDZhanhxcHhlN3U0eHgwYzdvZGZ4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qQRfz2VfUbDeebczif/giphy.gif)](https://www.marcoscm.dev)
-
 I'm a passionate software development student based in Galicia, Spain 🇪🇸.  
 I love building digital experiences — from tools that make life easier to creative entertainment projects that entertain and inspire.
 
