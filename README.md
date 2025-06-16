@@ -7,7 +7,7 @@ I love building digital experiences — from tools that make life easier to crea
 - 🔭 Currently working on personal projects to sharpen my skills and stay motivated.
 - 🌱 Learning Swift and mobile app development.
 - 👾 Retro gaming fan and ☕ Java enthusiast.
-- - ⚡ Fun fact: I collect Batman comics and I’m a big cat lover.
+- 🦇 Fun fact: I collect Batman comics and I’m a big cat lover.
 
 ---
 
