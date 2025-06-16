@@ -12,7 +12,7 @@ I love building digital experiences — from tools that make life easier to crea
 ---
 
 ### 📫 Let’s connect:
-[🌐 Portfolio](https://www.marcoscm.dev) • [💼 LinkedIn](https://www.linkedin.com/in/marcos-castro-713492254/) • 📩 info@marcoscm.dev
+[🌐 Portfolio](https://www.marcoscm.dev) • [💼 LinkedIn](https://www.linkedin.com/in/marcoscmdev/) • 📩 info@marcoscm.dev
 
 ---
 
