@@ -33,9 +33,7 @@ I love building digital experiences — from tools that make life easier to crea
 Feel free to reach out if you'd like to collaborate or just talk tech.  
 Thanks for stopping by! 👋
 
-&nbsp;  
-&nbsp;  
-&nbsp;  
+![retro Batman Nes](https://i.gifer.com/1NmQ.gif)
 
 ---
 
