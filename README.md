@@ -18,15 +18,11 @@ I love building digital experiences — from tools that make life easier to crea
 
 ### 💼 Current Project
 - **My Web Portfolio** – Built with Bootstrap + CSS + HTML
+- **Homney** - App for Android and web
 
-<!-- GitHub Profile Views -->
-![Profile views](https://komarev.com/ghpvc/?username=marcoscmdev&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscmdev&layout=compact&theme=tokyonight)
-
-<!-- GitHub Stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoscmdev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcoscmdev)
 
 ---
 
