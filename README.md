@@ -1,31 +1,31 @@
-## Hi there, I'm Marcos 👋
+## ¡Hola! Soy Marcos 👋
 
-Junior Software Developer based in Santiago de Compostela, Galicia, Spain 🇪🇸  
-DAM graduate · Java · PHP · Android · .NET - Open to any stack
+Desarrollador de Software Junior 📍 Santiago de Compostela, Galicia, España  
+Graduado en DAM · Especializándome en IA · Abierto a cualquier stack que me llame la atención
 
 ---
 
-### 🚀 What I've built
-- **Homney** — Android app for household task and expense management.  
-  Java · PHP · REST API · MySQL · Published on Google Play Store (+175 stores)  
+### 🚀 Lo que he construido
+- **Homney** — App Android para gestión de tareas y gastos del hogar.  
+  Java · PHP · API REST · MySQL · Publicada en Google Play Store 
   [🌐 homneyapp.atwebpages.com](https://homneyapp.atwebpages.com)
-- **Portfolio** — Personal web portfolio  
+- **Portfolio** — Portfolio web personal  
   HTML · CSS · Bootstrap · [marcoscm.dev](https://marcoscm.dev)
 
 ---
 
-### 🛠️ Tech stack
-Java · Kotlin · C# · PHP · JavaScript · MySQL  
-Android SDK · .NET · WinForms · WPF · Git
+### 🛠️ Stack técnico
+Java · C# · PHP · JavaScript · MySQL  
+Android SDK · .NET · WinForms · WPF · Spring Boot · React
 
 ---
 
-### 📫 Let's connect
+### 📫 Hablemos
 [🌐 Portfolio](https://marcoscm.dev) • [💼 LinkedIn](https://linkedin.com/in/marcoscmdev) • 📩 info@marcoscm.dev
 
 ---
 
-🦇 Batman comics collector & retro gaming fan
+🦇 Coleccionista de cómics de Batman y fan del retro gaming
 
 
 ![retro Batman Nes](https://i.gifer.com/1NmQ.gif)
