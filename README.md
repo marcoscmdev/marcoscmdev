@@ -6,6 +6,8 @@ Graduado en DAM · Especializándome en IA · Abierto a cualquier stack que me l
 ---
 
 ### 🚀 Lo que he construido
+- **GCPC** (Gotham Comics Personal Collection) — App web full stack en Spring Boot para gestionar mi colección de cómics.  
+  Java · Spring Boot · React · MySQL · [🌐 gcpc-app.marcoscm.dev](https://gcpc-app.marcoscm.dev)
 - **Homney** — App Android para gestión de tareas y gastos del hogar.  
   Java · PHP · API REST · MySQL · Publicada en Google Play Store 
   [🌐 homneyapp.atwebpages.com](https://homneyapp.atwebpages.com)
